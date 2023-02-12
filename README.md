@@ -9,13 +9,13 @@ Você gostaria de desenvolver um modelo para prever o valor total que os cliente
 Sobre o conjunto de dados:
 *"Este arquivo contém as informações das várias pessoas com os seguintes detalhes que podem nos ajudar a descobrir a melhor previsão e também nos ajudar a treinar nosso modelo para prever o valor correto e obter um bom F1 Score."*
 
-## Demanda da análise
+## 📃 Demanda da análise
 
 - Analisar a correlação dos dados dos clientes com os valores de compra de carros.
 - Gerar um modelo preditivo para o valor que um cliente está disposto a pagar por um carro novo.
 - Simular novas entradas de dados e previsão de valor a pagra por um carro novo.
   
-## Tópicos da análise
+## 📋 Tópicos da análise
 
 1. Análise das medidas estatísticas dos dados
 2. Distribuição dos dados entre as variáveis independentes (features) e dependente (target)
