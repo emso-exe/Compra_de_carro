@@ -1,4 +1,4 @@
-# 🏸 Previsão de valor de carros 🚗
+# 🏸 Previsão de valor de compra de carros 🚗
 
 Este projeto aplica técnicas de machine learning e análise exploratória de dados (EDA) para identificar relações entre variáveis demográficas e financeiras dos clientes e o valor de compra de veículos. O conjunto de dados utilizado foi disponibilizado publicamente no [Kaggle](https://www.kaggle.com/datasets/dev0914sharma/car-purchasing-model).
 
