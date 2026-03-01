@@ -1,4 +1,4 @@
-# 🏸 Previsão de valor de compra de carros 🚗
+# 🔎 Previsão de valor de compra de carros 🚗
 
 Este projeto aplica técnicas de **Análise Exploratória de Dados (EDA)** e **Machine Learning** para estimar o valor que um cliente está disposto a pagar na compra de um veículo, com base em características demográficas e financeiras.
 
